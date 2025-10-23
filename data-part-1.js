@@ -1,4 +1,4 @@
-const surahData = [
+var surahData = [
 {
     "id": 1,
     "name_bn": "আল-ফাতিহা",
